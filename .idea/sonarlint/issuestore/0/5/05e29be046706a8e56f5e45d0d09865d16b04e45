@@ -1,0 +1,5 @@
+
+„"squid:ClassVariableVisibilityCheck"QMake gread a static final constant or non-public and provide accessors if needed.(‚îÁ‰8û¨°˜‘-
+1squid:S1700"Rename field "course"(¡º“8Ò”¦™‘-
+…"squid:ClassVariableVisibilityCheck"RMake course a static final constant or non-public and provide accessors if needed.(¡º“8°¤ˆ™‘-
+|squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±İ›©ûÿÿÿÿ8û¨°˜‘-
